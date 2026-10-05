@@ -77,14 +77,9 @@ Snape isn't just a proxy script — it's a complete management solution designed
 
 ---
 
-## 🚀 Quick Install Options
+## 🚀 Installation Guide
 
-For easier deployment you can use:
-
-- **Telegram Install Bot:** [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot)
-- **Web Installer:** [https://arianf3.github.io/snape-panel/](https://arianf3.github.io/snape-panel/)
-
-Or follow the manual steps below.
+Follow the **Step-by-Step Deployment Guide** below to deploy directly on Cloudflare Workers.
 
 ---
 
@@ -196,10 +191,8 @@ Toggle in Advanced (or send `/pause` via Telegram) to immediately stop all proxy
 
 | Purpose | Resource |
 |---|---|
-| Clean IP finder | [senpaiscanner](https://github.com/senpaiscanner) · [@itsZetaBot](https://t.me/itsZetaBot) |
-| Relay IP | [@snapeproxyipbot](https://t.me/snapeproxyipbot) |
-| Easy Install (Telegram) | [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot) |
-| Web Installer | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
+| Clean IP finder | [senpaiscanner](https://github.com/senpaiscanner) |
+| Web Documentation | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
 
 ---
 

@@ -79,12 +79,9 @@
 
 ---
 
-## 🚀 گزینه‌های نصب سریع
+## 🚀 روش‌های نصب
 
-- **ربات تلگرام نصب:** [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot)
-- **نصب‌کننده تحت وب:** [https://arianf3.github.io/snape-panel/](https://arianf3.github.io/snape-panel/)
-
-یا مراحل دستی زیر را دنبال کنید.
+پیشنهاد می‌شود از **راهنمای گام‌به‌گام زیر** برای استقرار امن روی Cloudflare Workers استفاده کنید.
 
 ---
 
@@ -191,10 +188,8 @@ https://<آدرس-ورکر-شما>/sync/dash
 
 | کاربرد | منبع |
 |---|---|
-| پیدا کردن Clean IP | [senpaiscanner](https://github.com/senpaiscanner) · [@itsZetaBot](https://t.me/itsZetaBot) |
-| Relay IP | [@snapeproxyipbot](https://t.me/snapeproxyipbot) |
-| نصب آسان (تلگرام) | [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot) |
-| نصب‌کننده وب | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
+| پیدا کردن Clean IP | [senpaiscanner](https://github.com/senpaiscanner) |
+| مستندات و راهنما | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
 
 ---
 
