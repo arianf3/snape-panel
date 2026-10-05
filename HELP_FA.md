@@ -384,7 +384,7 @@ https://<YOUR_WORKER_DOMAIN>/sync/sub?sub=سارا
 
 <div align="center">
 
-[📖 README فارسی](./README_FA.md) · [🌐 راهنمای انگلیسی](./HELP.md) · [⭐ ستاره در GitHub](https://github.com/itsyebekhe/snape)
+[📖 README فارسی](./README_FA.md) · [🌐 راهنمای انگلیسی](./HELP.md) · [⭐ ستاره در GitHub](https://github.com/arianf3/snape-panel)
 
 </div>
 

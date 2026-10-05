@@ -151,7 +151,7 @@ const SYSTEM_DEFAULTS = {
     cfWorkerName: "",
     isPaused: false,
     silentAlerts: false,
-    githubRepo: "itsyebekhe/snape",
+    githubRepo: "arianf3/snape-panel",
     nameStrategy: "default",
     namePrefix: "Core",
     tgBotLang: "fa",
@@ -789,7 +789,7 @@ export default {
 
             if (!isTelemetryStream) {
                 if (reqPath === routes.dash) {
-                    const dashboardUrl = env.DASHBOARD_URL || 'https://raw.githubusercontent.com/itsyebekhe/snape/main/dashboard.html';
+                    const dashboardUrl = env.DASHBOARD_URL || 'https://raw.githubusercontent.com/arianf3/snape-panel/main/dashboard.html';
                     try {
                         const resp = await fetchT(dashboardUrl);
                         let html = await resp.text();
@@ -926,7 +926,7 @@ export default {
 
                     if (isRealBrowser && !isCustomUaAllowed) {
                         if (isValidUser) {
-                            const subscriptionUrl = env.SUBSCRIPTION_URL || 'https://raw.githubusercontent.com/itsyebekhe/snape/main/subscription.html';
+                            const subscriptionUrl = env.SUBSCRIPTION_URL || 'https://raw.githubusercontent.com/arianf3/snape-panel/main/subscription.html';
                             try {
                                 const resp = await fetchT(subscriptionUrl);
                                 let html = await resp.text();
@@ -1265,7 +1265,7 @@ export default {
         try {
             await loadSysConfig(env, ctx);
             if (sysConfig.autoUpdate && sysConfig.cfAccountId && sysConfig.cfApiToken && sysConfig.cfWorkerName) {
-                const repo = (sysConfig.githubRepo || "itsyebekhe/snape")
+                const repo = (sysConfig.githubRepo || "arianf3/snape-panel")
                     .replace(/https?:\/\/github\.com\//, "")
                     .trim();
                 let remoteVer = null;
@@ -2342,7 +2342,7 @@ async function handleUpdateApi(request, env, ctx) {
         const accountId = sysConfig.cfAccountId;
         const apiToken = sysConfig.cfApiToken;
         const workerName = sysConfig.cfWorkerName;
-        const repo = (sysConfig.githubRepo || "itsyebekhe/snape")
+        const repo = (sysConfig.githubRepo || "arianf3/snape-panel")
             .replace(/https?:\/\/github\.com\//, "")
             .trim();
 
@@ -9494,7 +9494,7 @@ let singboxTemplate = null;
 let VTemplate = null;
 
 async function fetchTemplates(env) {
-    const repo = sysConfig.githubRepo || "itsyebekhe/snape";
+    const repo = sysConfig.githubRepo || "arianf3/snape-panel";
     if (!clashTemplate) {
         try {
             let res = await fetchT(`https://raw.githubusercontent.com/${repo}/main/clash.yml`);

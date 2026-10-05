@@ -382,6 +382,6 @@ Once your bot is configured in the Advanced tab, these commands are available:
 
 <div align="center">
 
-[📖 README](./README.md) · [🇮🇷 راهنمای فارسی](./HELP_FA.md) · [⭐ Star on GitHub](https://github.com/itsyebekhe/snape)
+[📖 README](./README.md) · [🇮🇷 راهنمای فارسی](./HELP_FA.md) · [⭐ Star on GitHub](https://github.com/arianf3/snape-panel)
 
 </div>

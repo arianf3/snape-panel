@@ -6,7 +6,7 @@
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/itsyebekhe/snape/blob/main/_worker.js)
+[![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/arianf3/snape-panel/blob/main/_worker.js)
 
 > 🇮🇷 [نسخه فارسی / Persian Version](./README_FA.md)
 
@@ -81,8 +81,8 @@ Snape isn't just a proxy script — it's a complete management solution designed
 
 For easier deployment you can use:
 
-- **Telegram Install Bot:** [@itsyebekhebot](https://t.me/itsyebekhebot)
-- **Web Installer:** [https://erpycode.github.io/snape-installer/](https://erpycode.github.io/snape-installer/)
+- **Telegram Install Bot:** [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot)
+- **Web Installer:** [https://arianf3.github.io/snape-panel/](https://arianf3.github.io/snape-panel/)
 
 Or follow the manual steps below.
 
@@ -101,7 +101,7 @@ Or follow the manual steps below.
 
 1. Go to **Workers & Pages** → **Create application** → **Create Worker**.
 2. Name it (e.g. `snape-core`) and click **Deploy**.
-3. Click **Edit code**, delete the placeholder, and paste the full content of [`_worker.js`](https://github.com/itsyebekhe/snape/blob/main/_worker.js).
+3. Click **Edit code**, delete the placeholder, and paste the full content of [`_worker.js`](https://github.com/arianf3/snape-panel/blob/main/_worker.js).
 4. Click **Save and Deploy**.
 
 ### Step 3: Bind the D1 Database
@@ -198,8 +198,8 @@ Toggle in Advanced (or send `/pause` via Telegram) to immediately stop all proxy
 |---|---|
 | Clean IP finder | [senpaiscanner](https://github.com/senpaiscanner) · [@itsZetaBot](https://t.me/itsZetaBot) |
 | Relay IP | [@snapeproxyipbot](https://t.me/snapeproxyipbot) |
-| Easy Install (Telegram) | [@itsyebekhebot](https://t.me/itsyebekhebot) |
-| Web Installer | [erpycode.github.io/snape-installer](https://erpycode.github.io/snape-installer/) |
+| Easy Install (Telegram) | [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot) |
+| Web Installer | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
 
 ---
 
@@ -249,6 +249,6 @@ MIT License — see [LICENSE](./LICENSE)
 
 Made with ❤️ by the Open Source Community
 
-[⭐ Star this repo](https://github.com/itsyebekhe/snape) · [🐛 Report a bug](https://github.com/itsyebekhe/snape/issues) · [🇮🇷 نسخه فارسی](./README_FA.md)
+[⭐ Star this repo](https://github.com/arianf3/snape-panel) · [🐛 Report a bug](https://github.com/arianf3/snape-panel/issues) · [🇮🇷 نسخه فارسی](./README_FA.md)
 
 </div>

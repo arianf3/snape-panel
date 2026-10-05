@@ -8,7 +8,7 @@
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/itsyebekhe/snape/blob/main/_worker.js)
+[![JavaScript](https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/arianf3/snape-panel/blob/main/_worker.js)
 
 > 🌐 [English Version / نسخه انگلیسی](./README.md)
 
@@ -81,8 +81,8 @@
 
 ## 🚀 گزینه‌های نصب سریع
 
-- **ربات تلگرام نصب:** [@itsyebekhebot](https://t.me/itsyebekhebot)
-- **نصب‌کننده تحت وب:** [https://erpycode.github.io/snape-installer/](https://erpycode.github.io/snape-installer/)
+- **ربات تلگرام نصب:** [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot)
+- **نصب‌کننده تحت وب:** [https://arianf3.github.io/snape-panel/](https://arianf3.github.io/snape-panel/)
 
 یا مراحل دستی زیر را دنبال کنید.
 
@@ -100,7 +100,7 @@
 
 1. به **Workers & Pages** → **Create application** → **Create Worker** بروید.
 2. نامی بگذارید (مثلاً `snape-core`) و Deploy کنید.
-3. **Edit code** را باز کنید، کد placeholder را پاک کنید و محتوای کامل [`_worker.js`](https://github.com/itsyebekhe/snape/blob/main/_worker.js) را پیست کنید.
+3. **Edit code** را باز کنید، کد placeholder را پاک کنید و محتوای کامل [`_worker.js`](https://github.com/arianf3/snape-panel/blob/main/_worker.js) را پیست کنید.
 4. **Save and Deploy** بزنید.
 
 ### گام ۳: اتصال دیتابیس D1
@@ -193,8 +193,8 @@ https://<آدرس-ورکر-شما>/sync/dash
 |---|---|
 | پیدا کردن Clean IP | [senpaiscanner](https://github.com/senpaiscanner) · [@itsZetaBot](https://t.me/itsZetaBot) |
 | Relay IP | [@snapeproxyipbot](https://t.me/snapeproxyipbot) |
-| نصب آسان (تلگرام) | [@itsyebekhebot](https://t.me/itsyebekhebot) |
-| نصب‌کننده وب | [erpycode.github.io/snape-installer](https://erpycode.github.io/snape-installer/) |
+| نصب آسان (تلگرام) | [@Riddlemasster_Bot](https://t.me/Riddlemasster_Bot) |
+| نصب‌کننده وب | [arianf3.github.io/snape-panel](https://arianf3.github.io/snape-panel/) |
 
 ---
 
@@ -244,7 +244,7 @@ https://<آدرس-ورکر-شما>/sync/dash
 
 ساخته شده با ❤️ توسط جامعه متن‌باز
 
-[⭐ ستاره بدهید](https://github.com/itsyebekhe/snape) · [🐛 گزارش خطا](https://github.com/itsyebekhe/snape/issues) · [🌐 نسخه انگلیسی](./README.md)
+[⭐ ستاره بدهید](https://github.com/arianf3/snape-panel) · [🐛 گزارش خطا](https://github.com/arianf3/snape-panel/issues) · [🌐 نسخه انگلیسی](./README.md)
 
 </div>
 
