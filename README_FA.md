@@ -149,7 +149,7 @@ https://<آدرس-ورکر-شما>/sync/dash
 
 **ابزارهای پیشنهادی Clean IP:**
 - GitHub: [senpaiscanner](https://github.com/senpaiscanner)
-- تلگرام: [@itsZetaBot](https://t.me/itsZetaBot)
+- اسکنرهای فعال جامعه متن‌باز مانند [senpaiscanner](https://github.com/senpaiscanner)
 
 ### Relay IP
 

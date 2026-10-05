@@ -152,7 +152,7 @@ In **Advanced** → **Clean IPs**, enter one IP (or `IP#Name`) per line. The sub
 
 **Recommended tools for finding Clean IPs:**
 - GitHub: [senpaiscanner](https://github.com/senpaiscanner)
-- Telegram: [@itsZetaBot](https://t.me/itsZetaBot)
+- Open-source scanner communities such as [senpaiscanner](https://github.com/senpaiscanner)
 
 ### Relay IP
 
